@@ -3,15 +3,9 @@
 
 
 # 互联网开发软件
+editplus + webstrom + emacs + vscode + Vim
 Node + npm
 gulp + webpack
-vscode + 
-PS + cutterman
-Cmder
-Vim
-
-
-
 
 # 服务器开发软件
 mongo
@@ -24,8 +18,12 @@ pm2
 
 
 
-# 谷歌工具
+# 工具
 Lantern
 git + Sourcetree
+Typora
+Cmder
+wps
+PS + cutterman
 
 
