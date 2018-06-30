@@ -3,7 +3,7 @@
 
 
 # 互联网开发软件
-node + npm
+Node + npm
 gulp + webpack
 vscode + 
 PS + cutterman
